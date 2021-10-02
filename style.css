@@ -1,0 +1,43 @@
+.container{
+margin-bottom: 100px;
+}
+.pink{
+    color: #ff136f;
+    font-size: 50px;
+}
+.btn-primary{
+    background-color: #ff136f;
+    font-size: 20px;
+    padding: 6px 14px;
+    border-color: #ff136f;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.bg-yellow{
+    background-color: #ffa500;
+    border-radius: 10px;
+}
+.bg-pink{
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.bg-blue{
+    background-color: #0000ff;
+    border-radius: 10px;
+}
+h1 {
+    color: white;
+    margin-left: 25px;
+}
+.catagoris img{
+    margin-right: 25px;
+}
+.shoes{
+    margin-top: 100px;
+}
+
