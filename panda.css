@@ -1,0 +1,54 @@
+.bye-now{
+    color: white;
+    background:#ff136f;
+    padding: 10px 25px;
+    border-radius: 5px;
+    border-color:#ff136f ;
+    
+}
+h2{
+    margin-top: 50px;
+    color: #ff136f;
+}
+.bg-pink-disi{
+    padding: 20px 50px;
+    background-color: #fceae8;
+}
+.catagoris{
+    margin-top: 100px;
+}
+
+.catagoris img{
+    margin-right: 25px;
+}
+.color-1{
+    background-color: #ffa500;
+    color: white;
+    border-radius: 10px;
+}
+.color-2{
+    color: white;
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.color-3{
+    border-radius: 10px;
+    color: white;
+    background-color: #0000ff;
+}
+.padding{
+    padding: 0px 20px;
+}
+.margin-dibo{
+    margin-top: 100px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.new{
+    margin-top: 20px;
+}
+.color-keno{
+    border-radius: 10px;
+}
